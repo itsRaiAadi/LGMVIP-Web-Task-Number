@@ -1,2 +1,3 @@
 # LGMVIP-Web-Task-Number
-Html, Css &amp; JavaScript Porjects
+Tasks perform during virtual internship with LGM
+(Html, Css &amp; JavaScript Projects)
